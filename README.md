@@ -1,6 +1,6 @@
 #Boleh Rekod Asal Ijin Dulu
 
-#No Whatsapp Admin!! 083824434867
+#No Whatsapp Admin!! Mmk
 
 $pkg update && pkg upgrade
 
