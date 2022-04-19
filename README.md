@@ -1,5 +1,3 @@
-#Bahan Instal
-
 #Boleh Rekod Asal Ijin Dulu
 
 #No Whatsapp Admin!! 083824434867
@@ -32,11 +30,10 @@ $pip install mechanize
 
 $pip install futures
  
-
-.><Happy Fun
-
-#Fast Eun
 $git clone https://github.com/HIKMAT-xyz/sadv1
+
 $cd sadv1
+
 $git pull
+
 $python sadv2.py
