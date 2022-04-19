@@ -167,7 +167,7 @@ def menu_test():
 		
 def krekefbi():
 	banner()
-	print('[Token>>>> :  %s'%(token)) 
+	print('[Token>>>> :  '+str(tokenku)) 
 	print('[01]>_Crack ID Public')
 	print('[02]>_Crack ID Public [Massal]')
 	print('[03]>_Crack ID Grup')
